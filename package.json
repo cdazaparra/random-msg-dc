@@ -1,0 +1,26 @@
+{
+  "name": "random-msg-dc",
+  "version": "1.0.0",
+  "description": "Random messages DC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdazaparra/random-msg-dc.git"
+  },
+  "keywords": [
+    "Messages"
+  ],
+  "author": "DC <cdazaparra@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cdazaparra/random-msg-dc/issues"
+  },
+  "homepage": "https://github.com/cdazaparra/random-msg-dc#readme",
+  "bin": {
+    "random-msg-dc": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
